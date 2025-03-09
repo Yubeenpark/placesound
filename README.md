@@ -21,6 +21,6 @@ fianl.apk를 다운 받고 실행시킨다.
 |![Screenshot_20241128-203122_My project (1)](https://github.com/user-attachments/assets/9c7780a7-995d-4665-b0dc-9521b0ae05d2)|![Screenshot_20241128-203128_My project (1)](https://github.com/user-attachments/assets/7db0edad-4bb8-4158-9ab7-6d92d5bcbacf)|
 
 
-| 3. 장소 선택              |4.  장소과 모델 save     |
+| 3. 장소 선택              |4.  모델 save     |
 | ------------------------- | ------------------------ |
 | ![Screenshot_20241128-203149_My project (1)](https://github.com/user-attachments/assets/e3425d6a-f386-411a-b3f3-a5031f6bd0d3)|![Screenshot_20241128-203205_My project (1)](https://github.com/user-attachments/assets/2f18afaa-2cc3-4913-bce0-6060e2a5ba11)|
