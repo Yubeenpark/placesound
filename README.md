@@ -8,6 +8,12 @@ AR을 활용하여 공간을 다양한 모델로 꾸민다.
 ------------
 fianl.apk를 다운 받고 실행시킨다. 
 
+#시스템 구조
+-----------------
+![image](https://github.com/user-attachments/assets/a5e27434-a969-4a3d-8490-f2dfaee965b1)
+
+
+
 #개발환경
 -------------
 
